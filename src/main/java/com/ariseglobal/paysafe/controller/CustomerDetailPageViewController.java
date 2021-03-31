@@ -8,7 +8,7 @@ public class CustomerDetailPageViewController {
 
 	@RequestMapping("/")
 	public String getCustomerDetailPage() {
-		return "CustomerDetailPage";
+		return "CheckOutPage";
 	}
 
 }
